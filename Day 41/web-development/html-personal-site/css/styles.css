@@ -1,1 +1,17 @@
+body {
+    background-color: #2E2E2F;
+    color: #DCAF5F;
+    font-family: 'Cormorant', serif;
+}
 
+hr {
+    border-style: inset;
+    border-color: #DCAF5F;
+    height: 2px;
+    width: 75;
+}
+
+h1, h2, h3 {
+    color: #7EAAC7;
+    font-family: 'Cinzel', serif;
+}
