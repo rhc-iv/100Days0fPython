@@ -1,1 +1,1 @@
-# **Selenium** Webdriver Browser & Game-Playing Bot.
+**Selenium** Webdriver Browser & Game-Playing Bot.
