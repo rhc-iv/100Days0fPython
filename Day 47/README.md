@@ -1,1 +1,1 @@
-# Create an automated **Amazon Price Tracker**.
+Create an automated **Amazon Price Tracker** using **Python**
