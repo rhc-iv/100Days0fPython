@@ -1,1 +1,1 @@
-# Automating Job Applications on **LinkedIn**.
+Automating Job Applications on **LinkedIn**.
