@@ -1,4 +1,8 @@
-# Pong Game Build Steps:
+# 100 Days Of Python: Day 22
+
+Using the **Python** `turtle` module to re-create the classing arcade game **Pong**.
+
+### Pong Game Build Steps:
 
 * Create the screen
 * Create & move a paddle
