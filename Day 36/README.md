@@ -1,1 +1,1 @@
-# Stock Trading News Alert Project using `api`'s.
+# 100 Days Of Python: Day 36
