@@ -1,6 +1,1 @@
-# Day 42:
-
----
-
-This project is linked to the **Day 41** course section. All relevant 
-directories & files can be found in that course section folder.
+# 100 Days Of Python: Day 43
