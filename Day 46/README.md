@@ -1,1 +1,3 @@
-Create a **Spotify Playlist** using the **Musical Time Machine**
+# 100 Days Of Python: Day 46
+
+Scraping the **Billboard Top 100** charts and creating a **Spotify** playlist from the results.
